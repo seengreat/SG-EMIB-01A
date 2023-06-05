@@ -860,8 +860,8 @@ namespace neopixel {
 /*
 sound block
 */
-//% weight=70 color=#CC6633 icon="\uf001" block="sound"
-namespace Sound {
+//% weight=70 color=#CC6633 icon="\uf001" block="sound volume"
+namespace Sound_volume {
     let Apin = AnalogPin.P1;
     let volt = 0;
     let adc = 0;
