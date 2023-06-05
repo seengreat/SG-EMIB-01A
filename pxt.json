@@ -1,0 +1,25 @@
+{
+    "name": "pxt-server",
+    "version": "0.0.0",
+    "description": "Javascript version demo codes for SG-EMIB-01A board",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "README.md",
+        "pxt-server.blocks",
+        "sendBuffer.asm",
+        "pxt-server.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
