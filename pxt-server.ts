@@ -1,11 +1,11 @@
 enum Motor {
-    //% block="LA"
+    //% block="M1_A"
     M1_A = 0x1,
-    //% block="LB"
+    //% block="M1_B"
     M1_B = 0x2,
-    //% block="RA"
+    //% block="M2_A"
     M2_A = 0x3,
-    //% block="RB"
+    //% block="M2_B"
     M2_B = 0x4,
 }
 enum Servo_Ch {
