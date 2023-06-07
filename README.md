@@ -16,7 +16,7 @@ To edit this repository in MakeCode.
 
 * open []()
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/** and click import
+* paste **https://github.com/seengreat/SG-EMIB-01A** and click import
 
 ## Blocks preview
 
